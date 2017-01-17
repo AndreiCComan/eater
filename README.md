@@ -52,6 +52,13 @@ As a registered user you can:
 ![picture alt](/img/restaurantProfile2.png?raw=true "Restaurant profile2")
 ![picture alt](/img/reviewRestaurant.png?raw=true "Review Restaurant")
 
+### Admin page
+Admin has two main tasks:
+ * resolve disputes between people who have claimed the same restaurant
+ * evaluate flagged photos
+
+![picture alt](/img/adminProfile.png?raw=true "Admin")
+
 ### Developers page
 These are the buddies that built this website.
 
